@@ -1,7 +1,5 @@
 # RocketHelp 🚀
-![cover](https://user-images.githubusercontent.com/28378302/180828370-1bc42035-a58c-496e-be03-306380fdfb49.png)
-)
-
+![cover](https://github.com/nathaliagomes/ignite-lab-react-native/blob/main/docs/cover.png)
 
 ## Sobre
 
